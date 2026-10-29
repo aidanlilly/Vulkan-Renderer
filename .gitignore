@@ -1,0 +1,5 @@
+/out/
+/.vs/
+/docs/architecture.md
+*.user
+*.suo
